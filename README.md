@@ -49,7 +49,7 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
   * `dblclick`
 
 
-### Task 3: Stretch
+### Task 4: Stretch
 
 * [ ] Update styles throughout the page as you see fit. Study what happens when you updated the DOM using style in JavaScript.  
 * [ ] Go look at [GSAP](https://greensock.com/) and implement the animations found in that library with your custom events.

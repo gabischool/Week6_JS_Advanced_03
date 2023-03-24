@@ -62,3 +62,5 @@ You have been provided a [JSON object](js/index.js) with all the necessary data 
 
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
 * [ ] Go to the student portal and submit assignment with the link to your branch.
+
+<!-- begin lesson -->
